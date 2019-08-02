@@ -25,7 +25,7 @@
             "files": [
                 "jquery.min.js",
                 "jquery.slim.js",
-                "jquery.slim.min.js",
+                "jquery.slim.min.js"
             ]
         }
     }
